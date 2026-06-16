@@ -1,0 +1,6 @@
+{
+  "name": "Commodity & Stock Terminal",
+  "description": "A minimalist, gold-themed market intelligence terminal. Tracks real-time commodity prices, stocks, and upcoming IPOs using Gemini Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
